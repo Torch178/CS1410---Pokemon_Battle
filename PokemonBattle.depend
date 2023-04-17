@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1580696675 source:c:\users\torch178\documents\cs1410\pokemonbattle\main.cpp
+	<iostream>
+	<time.h>
+	"Pokemon.h"
+	<cstdlib>
+
+1580694485 c:\users\torch178\documents\cs1410\pokemonbattle\include\pokemon.h
+	<iostream>
+	<ostream>
+	<iomanip>
+
+1580696640 source:c:\users\torch178\documents\cs1410\pokemonbattle\src\pokemon.cpp
+	"Pokemon.h"
+	<cstdlib>
+
+1580700275 source:c:\users\torch178\documents\computer science portfolio\cs 1410 - object oriented programming - c++\pokemonbattle\main.cpp
+	<iostream>
+	<time.h>
+	"Pokemon.h"
+	<cstdlib>
+
+1580698085 c:\users\torch178\documents\computer science portfolio\cs 1410 - object oriented programming - c++\pokemonbattle\include\pokemon.h
+	<iostream>
+	<ostream>
+	<iomanip>
+
+1580700240 source:c:\users\torch178\documents\computer science portfolio\cs 1410 - object oriented programming - c++\pokemonbattle\src\pokemon.cpp
+	"Pokemon.h"
+	<cstdlib>
+
